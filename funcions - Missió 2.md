@@ -9,7 +9,7 @@
 **Sintaxi:** `COUNTIFS(interval_criteris1; criteri1; [interval_criteris2; criteri2; ...])`
 
 | Argument | Obligatori? | Què és |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | `interval_criteris1` | Sí | Les primeres cel·les que volem mirar. |
 | `criteri1` | Sí | La condició que s'ha de complir en aquestes cel·les. |
 | `interval_criteris2` | No | Un segon grup de cel·les per filtrar encara més. |
@@ -34,7 +34,7 @@
 **Sintaxi:** `SUMIFS(interval_suma; interval_criteris1; criteri1; [interval_criteris2; criteri2; ...])`
 
 | Argument | Obligatori? | Què és |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | `interval_suma` | Sí | Les cel·les amb els números que volem sumar. |
 | `interval_criteris1` | Sí | El primer grup de cel·les on comprovem la condició. |
 | `criteri1` | Sí | La condició que s'ha de complir. |
@@ -60,7 +60,7 @@
 **Sintaxi:** `IFS(condició1; valor1; [condició2; valor2; ...])`
 
 | Argument | Obligatori? | Què és |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | `condició1` | Sí | La primera comprovació que fem. |
 | `valor1` | Sí | El que surt si la primera condició es compleix. |
 | `condició2` | No | Una segona comprovació per si la primera no es compleix. |
@@ -85,7 +85,7 @@
 **Sintaxi:** `XLOOKUP(clau_cerca; interval_cerca; interval_resultat; [valor_mancant]; [mode_coincidència]; [mode_cerca])`
 
 | Argument | Obligatori? | Què és |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | `clau_cerca` | Sí | El que estem buscant (per exemple, l'ID de la cursa). |
 | `interval_cerca` | Sí | La columna on ha d'anar a buscar aquest valor. |
 | `interval_resultat` | Sí | La columna d'on treurà la resposta. |
