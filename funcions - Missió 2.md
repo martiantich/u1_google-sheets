@@ -118,7 +118,7 @@
    * `SUMIF(interval; criteri; [interval_suma])`
    * `SUMIFS(interval_suma; interval_criteris1; criteri1; [interval_criteris2; criteri2; ...])`
    
-   **Què canvia?** L'interval de suma a `SUMIF` va al final de tot i és opcional, mentre que a `SUMIFS` va el primer de tot i és obligatori.
+   **Què canvia?** L'`interval_suma` passa d'estar al final, al principi. I amb el `SUMIF` només pots fer un criteri, en canvi amb el `SUMIFS` més d'un.
 # Reflexió final · Missió 2
 
 La funció que m'ha costat més d'entendre ha estat XLOOKUP, perquè llegint la documentació no acabava d'entendre el concepte de com relacionava dues columnes d'una altra pestanya.
