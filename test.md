@@ -4,7 +4,7 @@ Escriu la lletra (a, b, c o d) de cada resposta a la columna **Resposta**. Si no
 
 | Pregunta | Resposta |
 |----------|----------|
-| 1        |          |
+| 1        |     d     |
 | 2        |     a     |
 | 3        |     c     |
 | 4        |      b    |
